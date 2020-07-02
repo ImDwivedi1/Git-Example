@@ -1,2 +1,3 @@
 # Git-Example
-Cloning
+Learn Git for Free..
+test this repository.
